@@ -1,6 +1,6 @@
 import "./NewExpense.css";
 const NewExpense = function () {
-  return;
+  return <div className="new-expense"></div>;
 };
 
 export default NewExpense;
